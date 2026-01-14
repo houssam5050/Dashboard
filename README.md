@@ -1,5 +1,8 @@
 <h1>Dashboard</h1>
 <img width="959" height="431" alt="image" src="https://github.com/user-attachments/assets/e8d8b446-1817-4682-965b-24682b728294" />
+<br>
+<a href="index.html">Dashboard</a>
+<br>
 
 
 📊 Frontend Dashboard Project
